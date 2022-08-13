@@ -1,0 +1,2 @@
+user.name = gunathilakakisalka@gmail.com
+password = demoadmin

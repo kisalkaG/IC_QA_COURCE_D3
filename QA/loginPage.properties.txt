@@ -1,0 +1,3 @@
+user.name.element = userName
+password.element = password
+login.button.element = //input[@type='submit']
